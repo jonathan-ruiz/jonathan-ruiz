@@ -52,6 +52,3 @@ I am passionate about continuous learning and improving my skills to drive innov
 - [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/your-github-profile)
 
 ---
-
-I am passionate about continuous learning and improving my skills to drive innovation and efficiency, ensuring the delivery of high-quality and reliable software solutions.
-
